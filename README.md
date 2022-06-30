@@ -1,5 +1,5 @@
 # K-Means-Clustering
-K-Means (Data science) Clustering project, for analyzing countries dataset.
+K-Means Clustering (data science) project, for analyzing countries dataset.
 
 ### system startup:
 To run the system, open the project folder in cmd and type:
